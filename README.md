@@ -104,9 +104,9 @@ Forman Christian College University
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
-- 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
+- 💼 [LinkedIn]("https://www.linkedin.com/in/hassankhalid01/")
+- 📧 Email: HassanKhalid9255@gmail.com
+- 🌐 [Portfolio]("https://hassan9255.github.io/Portfolio/")
 
 ---
 
