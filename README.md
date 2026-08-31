@@ -83,12 +83,10 @@ Forman Christian College University
 2026
 
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassan9255&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan9255&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
+  <img src="https://readme-stats-weld-ten.vercel.app/api?username=Hassan9255&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
+  <img src="https://readme-stats-weld-ten.vercel.app/api/top-langs/?username=Hassan9255&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
 </p>
 
 ---
